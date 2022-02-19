@@ -1,5 +1,3 @@
-### Trabalho Modelos Lineares Generalizados
-
 #### Importação dos dados #####
 library(haven)
 
